@@ -6,6 +6,7 @@ rustup override set nightly
 cargo build 
 
 cd ../frontend
+npm install
 npm run build 
 
 cd ../backend
