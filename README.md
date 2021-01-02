@@ -1,8 +1,10 @@
 # rust_rocket_and_react
 Backend: Rust Rocket, Frontend: React
 
-# Dependency 
+# How to run? 
+./build.sh
 
+# Dependency 
 * Rust: rustc 1.50.0-nightly
 * Rust Rocket: 0.4.6
 * Cargo: 1.50.0-nightly
@@ -10,3 +12,4 @@ Backend: Rust Rocket, Frontend: React
 * create-react-app: 4.0.1
 
 # Posting 
+
