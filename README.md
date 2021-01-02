@@ -3,6 +3,7 @@ Backend: Rust Rocket, Frontend: React
 
 # Dependency 
 * Rust: rustc 1.50.0-nightly
+
 Rust nightly version is required by Rocket.
 * Rust Rocket: 0.4.6
 * Cargo: 1.50.0-nightly
@@ -11,6 +12,8 @@ Rust nightly version is required by Rocket.
 
 # How to run? 
 ```
+$ git clone https://github.com/devjunhong/rust_rocket_and_react.git
+$ cd rust_rocket_and_react
 $ ./run.sh
 ```
 
